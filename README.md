@@ -1,6 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+# I'm Om Anand
 
-## Main Account
+## Computer Science Student and Cyber Security Enthusiast
+
+## This is Main Account
 
 ## Sub : [OM ANAND](https://github.com/om-anand98), [Om Anand](https://github.com/om-anand)
 
