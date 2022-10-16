@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## Main Account
+
+## Sub : [OM ANAND](https://github.com/om-anand98), [Om Anand](https://github.com/om-anand)
+
+### Currently working on Python related projects
+
 <!--
 **om-anand-official/om-anand-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
