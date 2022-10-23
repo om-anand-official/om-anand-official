@@ -1,13 +1,14 @@
-<h3 align="center"> Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<h1 align="center"> Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<br>
+I'm Om Anand</h1>
+<br><br>
 
-# Hi there 👋
-# I'm Om Anand
+<h3 align="center">Computer Science Student and Cyber Security Enthusiast</h3>
 
-## Computer Science Student and Cyber Security Enthusiast
-
-## This is Main Account
-
-## Sub : [OM ANAND](https://github.com/om-anand98), [Om Anand](https://github.com/om-anand)
+<h5 align="center">
+This is Main Account
+Sub : [OM ANAND](https://github.com/om-anand98), [Om Anand](https://github.com/om-anand)
+</h5>
 
 ### Currently working on Python related projects
 
