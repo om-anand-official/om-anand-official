@@ -9,7 +9,8 @@ I'm Om Anand</h1>
 
 <h5 align="center">
 This is Main Account
-Sub : [OM ANAND](https://github.com/om-anand98), [Om Anand](https://github.com/om-anand)
+<br>
+Sub : <a href="https://github.com/om-anand98">OM ANAND</a>, <a href="https://github.com/om-anand">Om Anand</a>
 </h5>
 
 ### Currently working on Python related projects
