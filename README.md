@@ -3,7 +3,7 @@
 <h1> Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></a>
 <br>
 I'm Om Anand</h1>
-<br><br>
+<br>
 
 <h3>Computer Science Student and Cyber Security Enthusiast</h3>
 
